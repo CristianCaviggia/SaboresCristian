@@ -5,9 +5,9 @@ public class SaboresCristian {
 
    
     public static void main(String[] args) {
-        String[]sabores = {"Dulce", "Salado", "Amargo", "Acido", "Umami", "Picante", "Astrigente", "Starchy", "Adiposo"};
-        for(int i=0;i<6;i++){
-            System.out.println("Sabor:"+sabores[i]);
+        String[]sabores = {"Dulce", "Salado", "Amargo", "Acido", "Umami", "Picante", "Astrigente", "Starchy", "Adiposo", "Agridulce"};
+        for(int i=0;i<11;i++){
+            System.out.println("Existe el sabor:"+sabores[i]);
         }
     }
     
